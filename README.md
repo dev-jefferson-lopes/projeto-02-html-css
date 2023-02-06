@@ -7,7 +7,7 @@ O objetivo deste projeto é criar um site simples, sem muita estilização, usan
 
 
 ## Layout web
-![Mobile 1](https://github.com/dev-jefferson-lopes/projeto-02-html-css/blob/main/assets/img/pagina.png)
+![Web 1](https://github.com/dev-jefferson-lopes/projeto-02-html-css/blob/main/assets/img/pagina.png)
 
 # Tecnologias utilizadas
 ## Front end
