@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+}
+
+body{
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+body img{
+    width: 100%;
+}
+
+h1 {
+    font-size: 22px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 18px;
+    color: #88100f;
+    font-weight: normal;
+    text-align: center;
+    margin: 15px 0 20px;
+}
+
+h3 {
+    font-size: 16px;
+    text-decoration: underline;
+    color: #88100f;
+    margin: 10px 0;
+}
+
+p, ol{
+    font-size: 14px;
+    line-height: 28px;
+}
+
+ol{
+    padding: 0 40px;
+}
